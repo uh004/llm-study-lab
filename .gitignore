@@ -29,6 +29,8 @@ __pycache__/
 # =========================
 data/private/
 data/raw/private/
+notebooks/data/*.pdf
+**/*.pdf
 chroma/
 vector_db/
 *.sqlite3
