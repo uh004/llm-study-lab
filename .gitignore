@@ -45,3 +45,8 @@ Thumbs.db
 # VSCode optional
 # =========================
 .vscode/
+# =========================
+# Images and Data
+# =========================
+*.png
+*.csv
